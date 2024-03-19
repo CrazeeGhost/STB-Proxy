@@ -12,6 +12,13 @@
 - Set fallback channels
 - Support for multiple MACs/Streams per Portal
 
+# Manual Setup
+
+- git clone https://github.com/CrazeeGhost/STB-Proxy
+- sudo apt install python3 python3-pip ffmpeg
+- pip3 install flask requests retrying waitress
+- cd STB-Proxy
+- Navigate to 127.0.0.1:8001
 
 # Setup
 
